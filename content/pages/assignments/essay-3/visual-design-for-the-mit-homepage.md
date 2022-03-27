@@ -1,11 +1,11 @@
 ---
 content_type: page
 learning_resource_types: []
-ocw_type: CourseSection
 parent_title: Essay 3
 parent_type: CourseSection
 parent_uid: 41cd3edc-c8c7-292b-64d0-011b433a4cc7
 title: Visual Design for the MIT Homepage
+type: CourseSection
 uid: f0b5d79e-f43d-4895-31ae-ac942abad26b
 ---
 

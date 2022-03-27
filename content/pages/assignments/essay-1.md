@@ -2,11 +2,11 @@
 content_type: page
 learning_resource_types:
 - Assignments
-ocw_type: CourseSection
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 75c5e635-3aa1-3a1b-1c23-e37346320c96
 title: Essay 1
+type: CourseSection
 uid: 2eed2080-af4c-e4ff-6506-9cc5f3a4d737
 ---
 

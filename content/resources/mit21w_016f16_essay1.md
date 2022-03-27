@@ -5,10 +5,10 @@ file: /media/courses/21w-016-writing-and-rhetoric-designing-meaning-fall-2016/28
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21W_016F16_Essay1
+type: OCWFile
 uid: 287fe47a-8e78-df71-f0f5-10789d287ad2
 ---

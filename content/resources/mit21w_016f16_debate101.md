@@ -5,10 +5,10 @@ file: /media/courses/21w-016-writing-and-rhetoric-designing-meaning-fall-2016/e5
 file_type: application/pdf
 learning_resource_types:
 - Readings
-ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21W_016F16_Debate101
+type: OCWFile
 uid: e5739d65-70a5-bbd8-e250-1f2037f51e96
 ---

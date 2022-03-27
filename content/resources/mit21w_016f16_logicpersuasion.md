@@ -5,10 +5,10 @@ file: /media/courses/21w-016-writing-and-rhetoric-designing-meaning-fall-2016/2a
 file_type: application/pdf
 learning_resource_types:
 - Readings
-ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21W_016F16_LogicPersuasion
+type: OCWFile
 uid: 2a55cf3c-2c82-11b4-3d03-f895679eaa2f
 ---
