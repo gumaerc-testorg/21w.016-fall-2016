@@ -1,11 +1,13 @@
 ---
 content_type: page
+description: 'This section contains details for the second part of Essay 3: the Visual
+  Design for the MIT homepage as well as oral presentation guidelines.'
 learning_resource_types: []
+ocw_type: ''
 parent_title: Essay 3
 parent_type: CourseSection
 parent_uid: 41cd3edc-c8c7-292b-64d0-011b433a4cc7
 title: Visual Design for the MIT Homepage
-type: CourseSection
 uid: f0b5d79e-f43d-4895-31ae-ac942abad26b
 ---
 
@@ -48,4 +50,4 @@ Because you are presenting a visual image, you will need a way to make that imag
 
 Be prepared to answer questions for a few minutes after your talk.
 
-[Return to assignment guidelines for Essay 3]({{< baseurl >}}/pages/assignments/essay-3)
+{{% resource_link 41cd3edc-c8c7-292b-64d0-011b433a4cc7 "Return to assignment guidelines for Essay 3" %}}

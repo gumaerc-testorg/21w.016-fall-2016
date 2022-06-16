@@ -1,16 +1,17 @@
 ---
 content_type: page
+description: This section contains assignment details for Essay 3.
 learning_resource_types:
 - Assignments
+ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 75c5e635-3aa1-3a1b-1c23-e37346320c96
 title: Essay 3
-type: CourseSection
 uid: 41cd3edc-c8c7-292b-64d0-011b433a4cc7
 ---
 
-While rhetoric has long been associated primarily with spoken oratory (political speeches, arguments in court, etc.), much recent analysis has been devoted to considering the rhetorical (i.e., symbolic and persuasive) functions of visual images, and of “texts” that are produced in multiple media—websites, advertisements, posters, films, even video games. In this unit, you will both analyze and produce rhetoric in multiple media. The unit includes 3 interrelated assignments: An essay analyzing the rhetoric of MIT’s homepage, [a web design for the MIT homepage]({{< baseurl >}}/pages/assignments/essay-3/visual-design-for-the-mit-homepage), and an oral presentation of your web design.
+While rhetoric has long been associated primarily with spoken oratory (political speeches, arguments in court, etc.), much recent analysis has been devoted to considering the rhetorical (i.e., symbolic and persuasive) functions of visual images, and of “texts” that are produced in multiple media—websites, advertisements, posters, films, even video games. In this unit, you will both analyze and produce rhetoric in multiple media. The unit includes 3 interrelated assignments: An essay analyzing the rhetoric of MIT’s homepage, {{% resource_link f0b5d79e-f43d-4895-31ae-ac942abad26b "a web design for the MIT homepage" %}}, and an oral presentation of your web design.
 
 Your third essay assignment asks you to analyze the rhetoric of MIT’s homepage. As the images shift day to day, what argument is being made about MIT? How are viewers being persuaded (explicitly and implicitly) to accept particular ideas in relation to MIT? What do these designs suggest about the cultural identity that MIT constructs for itself?
 

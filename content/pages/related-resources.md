@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of further readings and resources for the
+  course.
 learning_resource_types: []
+ocw_type: ''
 title: Related Resources
-type: CourseSection
 uid: 1609b2b2-468d-475c-dd5d-f6ae5d4751ef
 ---
 

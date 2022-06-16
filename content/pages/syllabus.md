@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section contains a description of the course as well as course requirements
+  and expectations.
 learning_resource_types: []
+ocw_type: ''
 title: Syllabus
-type: CourseSection
 uid: 2beee35a-de34-5d73-a6e2-abc163cd74b9
 ---
 
