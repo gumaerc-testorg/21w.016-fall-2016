@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains a list of readings for the course.
+learning_resource_types: []
+ocw_type: ''
 title: Readings
 uid: 810fe7af-60bb-bff7-13e7-2379d232a938
 ---
@@ -206,7 +209,7 @@ Schiappa, Edward and John P. Nordin. _Argumentation: Keeping Faith with Reason_.
 Debate Strategies cont.
 {{< tdclose >}}
 {{< tdopen >}}
-[Debate 101: 10 Steps to Successful Debating (PDF)]({{< baseurl >}}/resources/mit21w_016f16_debate101). Courtesy of Edward Schiappa and used with permission.
+{{% resource_link e5739d65-70a5-bbd8-e250-1f2037f51e96 "Debate 101: 10 Steps to Successful Debating (PDF)" %}}. Courtesy of Edward Schiappa and used with permission.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -314,7 +317,7 @@ Burke, Kenneth. "Identification." In _A Rhetoric of Motives_. Revised edition. U
 
 Geary, James. "Metaphor and the Brain: Bright Sneezes and Loud Sunlight." In _I Is an Other: The Secret Life of Metaphor and How it Shapes the Way We See the World_. Reprint edition. Harper Perennial, 2012. ISBN: 9780061710292.
 
-[The Logic of Persuasion: Identifying, Critiquing, and Developing Appeals to Logos (PDF)]({{< baseurl >}}/resources/mit21w_016f16_logicpersuasion)
+{{% resource_link 2a55cf3c-2c82-11b4-3d03-f895679eaa2f "The Logic of Persuasion: Identifying, Critiquing, and Developing Appeals to Logos (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -332,7 +335,7 @@ Visual Design cont.
 
 Slides on how to design an image for the homepage:
 
-[Designing Meaning: What is the meaning of MIT? (PDF)]({{< baseurl >}}/resources/mit21w_016f16_designmeaning)
+{{% resource_link faf96a4c-5d2b-0718-02cc-b3534f87afef "Designing Meaning: What is the meaning of MIT? (PDF)" %}}
 
 
 {{< tdclose >}}

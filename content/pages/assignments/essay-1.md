@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains the assignment details for Essay 1.
+learning_resource_types:
+- Assignments
+ocw_type: ''
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 75c5e635-3aa1-3a1b-1c23-e37346320c96
 title: Essay 1
 uid: 2eed2080-af4c-e4ff-6506-9cc5f3a4d737
