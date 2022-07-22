@@ -5,6 +5,7 @@ file: /courses/21w-016-writing-and-rhetoric-designing-meaning-fall-2016/e5739d65
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Readings
 parent_type: CourseSection
