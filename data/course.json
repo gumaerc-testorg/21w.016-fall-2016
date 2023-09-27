@@ -43,7 +43,9 @@
   },
   "course_title": "Writing and Rhetoric: Designing Meaning",
   "course_description": "This course takes rhetoric as a system for designing meaning that helps us understand complex situations and ideas, enlighten and persuade others to act, and thus reshape our world. We\u2019ll study rhetoric systematically and empirically, both analyzing how it works on us as readers, and testing how we can make informed rhetorical choices as we design our own texts.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.016",
   "course_image_thumbnail": {
@@ -53,6 +55,7 @@
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
-  "site_uid": "c1b9da8d-4277-4271-8ec3-4cfb66f6b7e8",
+  "site_uid": "14279bd1-cfcc-4181-949c-31ec87c19814",
+  "site_short_id": "21w.016-fall-2016",
   "title": "Course Metadata"
 }
