@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21w-016-writing-and-rhetoric-designing-meaning-fall-2016/e4e753e64d3e297ccf08b518d446236c_MIT21W_016F16_Essay3.pdf
+file_size: 881027
 file_type: application/pdf
 learning_resource_types:
 - Assignments
