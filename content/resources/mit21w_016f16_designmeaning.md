@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21w-016-writing-and-rhetoric-designing-meaning-fall-2016/faf96a4c5d2b071802ccb3534f87afef_MIT21W_016F16_DesignMeaning.pdf
+file: /courses/21w-016-writing-and-rhetoric-designing-meaning-fall-2016/faf96a4c5d2b071802ccb3534f87afef_MIT21W_016F16_DesignMeaning.pdf
 file_size: 513992
 file_type: application/pdf
 learning_resource_types:
