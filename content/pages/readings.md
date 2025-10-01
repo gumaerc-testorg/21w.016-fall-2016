@@ -45,9 +45,9 @@ Rhetorical Situations
 {{< tdopen >}}
 
 
-Bitzer, Lloyd. ["The Myth of the Rhetorical Situation." (PDF)](https://shesaidnow.wordpress.com/2017/06/10/bitzer-vatz-consigny/) In _Philosophy and Rhetoric_ Vol. 1 (1968). 1-14.
+Bitzer, Lloyd. {{% resource_link "f25847f6-4974-4651-b9e5-e438f5491d50" "\"The Myth of the Rhetorical Situation.\" (PDF)" %}} In _Philosophy and Rhetoric_ Vol. 1 (1968). 1-14.
 
-Consigny, Scott. ["Rhetoric and Its Situations." (PDF)](http://1301minimesters12.pbworks.com/w/file/fetch/51966388/Consigny%20Rhetoric%20Situations.pdf) In _Philosophy and Rhetoric_ Vol 7, No 3 (1974). 175-186.
+Consigny, Scott. {{% resource_link "b56756b1-e4f1-4810-ad15-c9db45815091" "\"Rhetoric and Its Situations.\" (PDF)" %}} In _Philosophy and Rhetoric_ Vol 7, No 3 (1974). 175-186.
 
 
 {{< tdclose >}}
@@ -61,7 +61,7 @@ Consigny, Scott. ["Rhetoric and Its Situations." (PDF)](http://1301minimesters12
 Rhetorical Situations cont.
 {{< tdclose >}}
 {{< tdopen >}}
-Obama, Senator Barack. "[A More Perfect Union](http://www.americanrhetoric.com/speeches/barackobamaperfectunion.htm)." In _The Black Scholar_ 38, no. 1 (2008): 17-23.
+Obama, Senator Barack. "{{% resource_link "6f33a9f1-8c3b-4b6a-8469-57fe4eba3bc0" "A More Perfect Union" %}}." In _The Black Scholar_ 38, no. 1 (2008): 17-23.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +85,7 @@ Selzer, Jack. "Rhetorical Analysis: Understanding How Texts Persuade Readers." I
 Rhetorical Reading cont.
 {{< tdclose >}}
 {{< tdopen >}}
-Fahnestock, Jeanne and Marie Secor. "[The Stases in Scientific and Literary Argument](http://journals.sagepub.com/doi/abs/10.1177/0741088388005004002)." In _Written Communication_ 5, no. 4 (1988): 427-443.
+Fahnestock, Jeanne and Marie Secor. "{{% resource_link "cd4054e7-0e5d-4374-83b5-6257c53b1962" "The Stases in Scientific and Literary Argument" %}}." In _Written Communication_ 5, no. 4 (1988): 427-443.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +101,7 @@ Discourse
 
 Lukin, Annabelle, David Butt, and Christian Matthiessen. "Reporting War: Grammar as 'Covert Operation'." _Pacific Journalism Review_, Vol. 10, No. 1, April (2004): 58-74.
 
-Gee, James Paul. "Social Languages, Conversations, and Intertextuality." In _An Introduction to Discourse Analysis: Theory and Method_. 2nd edition. Routledge, 2005. ISBN: 9780415328616. \[Preview with [Google Books](https://books.google.com/books?id=7n8c4kO9HhYC&lpg=PP1&pg=PA35#v=onepage&q&f=false)\]
+Gee, James Paul. "Social Languages, Conversations, and Intertextuality." In _An Introduction to Discourse Analysis: Theory and Method_. 2nd edition. Routledge, 2005. ISBN: 9780415328616. \[Preview with {{% resource_link "2289485b-1f69-4a85-b748-5391f1709e71" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -139,7 +139,7 @@ No assigned readings
 Revision Strategies cont.
 {{< tdclose >}}
 {{< tdopen >}}
-Sommers, Nancy. ["Revision Strategies of Student Writers and Experienced Adult Writers." (PDF)](http://psychology.yale.edu/sites/default/files/sommers_onrevisionstrategies.pdf) In _The Norton Book of Composition Studies_. Edited by Susan Miller. W. W. Norton & Company, 2009. ISBN: 9780393931358.
+Sommers, Nancy. {{% resource_link "265a6005-93db-49d8-817d-e0ab26c1e11b" "\"Revision Strategies of Student Writers and Experienced Adult Writers.\" (PDF)" %}} In _The Norton Book of Composition Studies_. Edited by Susan Miller. W. W. Norton & Company, 2009. ISBN: 9780393931358.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,13 +153,13 @@ Speeches
 {{< tdopen >}}
 
 
-Clinton, Hillary Rodham. "[Remarks to the UN 4th World Conference on Women Plenary Session](http://www.americanrhetoric.com/speeches/hillaryclintonbeijingspeech.htm)." American Rhetoric 5 (1995).
+Clinton, Hillary Rodham. "{{% resource_link "b7efe98c-d8d8-4a7a-a569-fb09efcb8638" "Remarks to the UN 4th World Conference on Women Plenary Session" %}}." American Rhetoric 5 (1995).
 
-Chisholm, Shirley Anita St. Hill. "[For the Equal Rights Amendment](http://www.americanrhetoric.com/speeches/shirleychisholmequalrights.htm)." American Rhetoric Retrieved December 27 (2006).
+Chisholm, Shirley Anita St. Hill. "{{% resource_link "c7176257-a631-4801-a2a6-a2ffb95d626e" "For the Equal Rights Amendment" %}}." American Rhetoric Retrieved December 27 (2006).
 
 _Watch:_
 
-Kennedy, John F. "[Inaugural Address](https://millercenter.org/the-presidency/presidential-speeches/january-20-1961-inaugural-address)." January 20, 1961. Miller Center.
+Kennedy, John F. "{{% resource_link "aecd5849-e365-4b22-b9a5-4bce2b1f4e1e" "Inaugural Address" %}}." January 20, 1961. Miller Center.
 
 
 {{< tdclose >}}
@@ -185,7 +185,7 @@ Toulmin, Stephen. "The Layout of Arguments." In _Professing the New Rhetorics: A
 Argument Structure cont.
 {{< tdclose >}}
 {{< tdopen >}}
-Walton, Douglas. "Argumentation Schemes." In _Fundamentals of Critical Argumentation (Critical Reasoning and Argumentation)_." Cambridge University Press, 2005. ISBN: 9780521530200. \[Preview with [Google Books](https://books.google.com/books?id=BpRUGM8nOdwC&lpg=PP1&pg=PA84#v=onepage&q&f=false)\]
+Walton, Douglas. "Argumentation Schemes." In _Fundamentals of Critical Argumentation (Critical Reasoning and Argumentation)_." Cambridge University Press, 2005. ISBN: 9780521530200. \[Preview with {{% resource_link "91191889-e65c-4464-8c42-714d7e58a44e" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +271,7 @@ Visual Rhetoric
 {{< tdopen >}}
 
 
-Kress, Gunther. "[Reading Images: Multimodality, Representation and New Media](https://www.researchgate.net/publication/233669585_Reading_images_Multimodality_representation_and_new_media)." Expert Forum for Knowledge Presentation.
+Kress, Gunther. "{{% resource_link "710d553d-6ce4-46ac-8a44-844b941f9e91" "Reading Images: Multimodality, Representation and New Media" %}}." Expert Forum for Knowledge Presentation.
 
 Wysocki, Anne Frances. "The Multiple Media of Texts: How Onscreen and Paper Texts Incorporate Words, Images, and Other Media." In _What Writing Does and How It Does It: An Introduction to Analyzing Texts and Texual Practices_. Edited by Charles Bazerman and Paul Prior. Routledge, 2003. ISBN: 9780805838060.
 
@@ -313,7 +313,7 @@ Visual Design
 {{< tdopen >}}
 
 
-Burke, Kenneth. "Identification." In _A Rhetoric of Motives_. Revised edition. University of California Press, 1969. ISBN: 9780520015463. \[Preview with [Google Books](https://books.google.com/books?id=y44o7549eC8C&lpg=PP1&dq=burke%20a%20rhetoric%20of%20motives&pg=PA55#v=onepage&q&f=false)\]
+Burke, Kenneth. "Identification." In _A Rhetoric of Motives_. Revised edition. University of California Press, 1969. ISBN: 9780520015463. \[Preview with {{% resource_link "b6c8753b-7012-4a99-bb80-7e0742c77503" "Google Books" %}}\]
 
 Geary, James. "Metaphor and the Brain: Bright Sneezes and Loud Sunlight." In _I Is an Other: The Secret Life of Metaphor and How it Shapes the Way We See the World_. Reprint edition. Harper Perennial, 2012. ISBN: 9780061710292.
 
