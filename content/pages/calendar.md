@@ -42,7 +42,7 @@ Introductions as genre; keyterms; structure of the class; analyzing our existing
 
 Self-assessment due
 
-Watch: [Commander-in-Chief Forum, NBC News](http://www.nbcnews.com/storyline/commander-in-chief-forum)
+Watch: {{% resource_link "229cc1ed-34bf-456e-bf5a-2be99dfa5265" "Commander-in-Chief Forum, NBC News" %}}
 
 
 {{< tdclose >}}
@@ -116,7 +116,7 @@ Designing policy arguments
 Discourse analysis and design
 {{< tdclose >}}
 {{< tdopen >}}
-Watch: [First Presidential Debate](https://youtu.be/855Am6ovK7s). YouTube.
+Watch: {{% resource_link "53701213-b435-4e60-bc6d-138d75b22f40" "First Presidential Debate" %}}. YouTube.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +172,7 @@ Revision strategies; style analysis
 
 {{< tdclose >}}
 {{< tdopen >}}
-Watch: [Vice Presidential Debate](https://youtu.be/mVXqNcW_-HA). YouTube.
+Watch: {{% resource_link "6fa72b73-c17d-495f-9a81-3b6ea1dc28e2" "Vice Presidential Debate" %}}. YouTube.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +208,7 @@ Revision of Essay 1: Speech Analysis due two days after Ses 10
 Argument structure
 {{< tdclose >}}
 {{< tdopen >}}
-Watch: [Third Presidential Debate](https://youtu.be/smkyorC5qwc). YouTube.
+Watch: {{% resource_link "547b6c4a-99cc-4e17-b917-eb4040fffe00" "Third Presidential Debate" %}}. YouTube.
 {{< tdclose >}}
 
 {{< trclose >}}
